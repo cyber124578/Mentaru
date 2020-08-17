@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "782401430557",
+    "firebase_url": "https://mentaru.firebaseio.com",
+    "project_id": "mentaru",
+    "storage_bucket": "mentaru.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782401430557:android:0fc2964111a950375ed2f4",
+        "android_client_info": {
+          "package_name": "com.example.mentaru"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782401430557-ufn1argh0jg6d335t08mkidhm5mg3n9o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDptRvjTTpPu_yOC6oTFxjsf9kQ8_6NsUA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782401430557-ufn1argh0jg6d335t08mkidhm5mg3n9o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

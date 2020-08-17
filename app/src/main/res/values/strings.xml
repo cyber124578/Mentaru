@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Mentaru</string>
+    <string name="action_search_text">Search</string>
+    <string name="action_settings_text">Account Settings</string>
+    <string name="logout_action_text">Logout</string>
+    <string name="your_email">Your Email</string>
+    <string name="login_email">login_email</string>
+    <string name="Your_email">your email</string>
+    <string name="loginlogo">Loginlogo</string>
+    <string name="email">email</string>
+    <string name="your_password">Your password</string>
+    <string name="login_to_your_account">Login to Your Account</string>
+    <string name="need_a_new_account">Need a new Account?</string>
+    <string name="create_new_account">Create new Account</string>
+    <string name="already_have_an_account">Already have an Account?</string>
+    <string name="confirm_your_password">Confirm Your Password</string>
+
+</resources>
